@@ -1,0 +1,741 @@
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.febbl {
+  width: 853px;
+  height: 114px;
+  background: url("../images/v4801_49.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 6149px;
+  left: 243px;
+  overflow: hidden;
+}
+.feb {
+  width: 38px;
+  color: rgba(133,148,171,1);
+  position: absolute;
+  font-weight: Regular;
+  font-size: 14px;
+  text-align: left;
+}
+.febt {
+  width: 496px;
+  color: rgba(36,36,36,1);
+  position: absolute;
+  left: 112px;
+  font-weight: Regular;
+  font-size: 28px;
+  text-align: left;
+}
+.febim {
+  width: 171px;
+  height: 114px;
+  background: url("../images/v1_294.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  left: 682px;
+  overflow: hidden;
+}
+.blmar {
+  width: 836px;
+  height: 114px;
+  background: url("../images/v4801_48.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 5987px;
+  left: 243px;
+  overflow: hidden;
+}
+.mar {
+  width: 47px;
+  color: rgba(133,148,171,1);
+  position: absolute;
+  font-weight: Regular;
+  font-size: 13px;
+  text-align: left;
+}
+.mart {
+  width: 476px;
+  color: rgba(36,36,36,1);
+  position: absolute;
+  left: 118px;
+  font-weight: Regular;
+  font-size: 28px;
+  text-align: left;
+}
+.marim {
+  width: 171px;
+  height: 114px;
+  background: url("../images/v1_293.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  left: 665px;
+  overflow: hidden;
+}
+.bljun {
+  width: 852px;
+  height: 114px;
+  background: url("../images/v4801_47.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 5825px;
+  left: 243px;
+  overflow: hidden;
+}
+.jun {
+  width: 37px;
+  color: rgba(133,148,171,1);
+  position: absolute;
+  font-weight: Regular;
+  font-size: 13px;
+  text-align: left;
+}
+.junt {
+  width: 524px;
+  color: rgba(36,36,36,1);
+  position: absolute;
+  left: 97px;
+  font-weight: Regular;
+  font-size: 28px;
+  text-align: left;
+}
+.imgjun {
+  width: 171px;
+  height: 114px;
+  background: url("../images/v1_292.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  left: 681px;
+  overflow: hidden;
+}
+.thimg {
+  width: 100%;
+  height: 316px;
+  background: url("../images/v4801_33.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 5339px;
+  overflow: hidden;
+}
+.onn {
+  width: 313px;
+  height: 316px;
+  background: url("../images/v1_274.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  overflow: hidden;
+}
+.tww {
+  width: 313px;
+  height: 316px;
+  background: url("../images/v1_275.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  left: 392px;
+  overflow: hidden;
+}
+.th {
+  width: 414px;
+  height: 313px;
+  background: url("../images/v1_276.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 1px;
+  left: 784px;
+  overflow: hidden;
+}
+.abt {
+  width: 100px;
+  color: rgba(36,36,36,1);
+  position: absolute;
+  top: 5085px;
+  left: 145px;
+  font-weight: Regular;
+  cursor: pointer;
+  font-size: 15px;
+  text-align: left;
+}
+.bltw {
+  width: 86px;
+  height: 133px;
+  background: url("../images/v4801_46.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 4945px;
+  left: 857px;
+  overflow: hidden;
+}
+.tw {
+  width: 65px;
+  color: rgba(36,36,36,1);
+  position: absolute;
+
+  font-weight: Regular;
+  font-size: 55px;
+  text-align: left;
+}
+.inb {
+  width: 86px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 73px;
+
+  font-weight: Regular;
+  font-size: 15px;
+  text-align: left;
+}
+.bltexts {
+  width: 135px;
+  height: 133px;
+  background: url("../images/v4801_45.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 4789px;
+  left: 857px;
+  overflow: hidden;
+}
+.sixx {
+  width: 135px;
+  color: rgba(36,36,36,1);
+  position: absolute;
+
+  font-weight: Regular;
+  font-size: 64px;
+  text-align: left;
+}
+.des {
+  width: 131px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 73px;
+
+  font-weight: Regular;
+  font-size: 15px;
+  text-align: left;
+}
+.asf {
+  width: 575px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 4789px;
+  left: 145px;
+
+  font-weight: Regular;
+  font-size: 24px;
+  text-align: left;
+}
+.entbl {
+  width: 395px;
+  height: 639px;
+  background: url("../images/v4801_44.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 3971px;
+  left: 660px;
+  overflow: hidden;
+}
+.entimg {
+  width: 395px;
+  height: 542px;
+  background: url("../images/v1_266.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  overflow: hidden;
+}
+.ent {
+  width: 134px;
+  color: rgba(36,36,36,1);
+  position: absolute;
+  top: 550px;
+
+  font-weight: Regular;
+  font-size: 20px;
+  text-align: left;
+}
+.entt {
+  width: 229px;
+  color: rgba(133,148,171,1);
+  position: absolute;
+  top: 583px;
+
+  font-weight: Regular;
+  font-size: 16px;
+  text-align: left;
+}
+.see {
+  width: 135px;
+  color: rgba(36,36,36,1);
+  position: absolute;
+  top: 605px;
+  cursor: pointer;
+  font-weight: Regular;
+  font-size: 14px;
+  text-align: left;
+}
+.monbl {
+  width: 395px;
+  height: 462px;
+  background: url("../images/v4801_43.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 4167px;
+  left: 145px;
+  overflow: hidden;
+}
+.monimg {
+  width: 395px;
+  height: 395px;
+  background: url("../images/v1_262.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  overflow: hidden;
+}
+.mon {
+  width: 108px;
+  color: rgba(36,36,36,1);
+  position: absolute;
+  top: 406px;
+
+  font-weight: Regular;
+  font-size: 20px;
+  text-align: left;
+}
+.mont {
+  width: 253px;
+  color: rgba(133,148,171,1);
+  position: absolute;
+  top: 442px;
+
+  font-weight: Regular;
+  font-size: 16px;
+  text-align: left;
+}
+.zenbl {
+  width: 395px;
+  height: 462px;
+  background: url("../images/v4801_42.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 3436px;
+  left: 660px;
+  overflow: hidden;
+}
+.zenimg {
+  width: 395px;
+  height: 395px;
+  background: url("../images/v1_258.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  overflow: hidden;
+}
+.zen {
+  width: 79px;
+  color: rgba(36,36,36,1);
+  position: absolute;
+  top: 406px;
+
+  font-weight: Regular;
+  font-size: 20px;
+  text-align: left;
+}
+.zent {
+  width: 229px;
+  color: rgba(133,148,171,1);
+  position: absolute;
+  top: 442px;
+
+  font-weight: Regular;
+  font-size: 16px;
+  text-align: left;
+}
+.colabl {
+  width: 395px;
+  height: 609px;
+  background: url("../images/v4801_41.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 3446px;
+  left: 145px;
+  overflow: hidden;
+}
+.colaimg {
+  width: 395px;
+  height: 542px;
+  background: url("../images/v1_254.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  overflow: hidden;
+}
+.cola {
+  width: 102px;
+  color: rgba(36,36,36,1);
+  position: absolute;
+  top: 553px;
+
+  font-weight: Regular;
+  font-size: 20px;
+  text-align: left;
+}
+.colat {
+  width: 109px;
+  color: rgba(133,148,171,1);
+  position: absolute;
+  top: 589px;
+
+  font-weight: Regular;
+  font-size: 16px;
+  text-align: left;
+}
+.joebl {
+  width: 395px;
+  height: 609px;
+  background: url("../images/v4801_40.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 2735px;
+  left: 660px;
+  overflow: hidden;
+}
+.joeimg {
+  width: 395px;
+  height: 542px;
+  background: url("../images/v1_250.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  overflow: hidden;
+}
+.joe {
+  width: 150px;
+  color: rgba(36,36,36,1);
+  position: absolute;
+  top: 553px;
+
+  font-weight: Regular;
+  font-size: 20px;
+  text-align: left;
+}
+.joet {
+  width: 190px;
+  color: rgba(133,148,171,1);
+  position: absolute;
+  top: 589px;
+
+  font-weight: Regular;
+  font-size: 16px;
+  text-align: left;
+}
+.slbl {
+  width: 395px;
+  height: 462px;
+  background: url("../images/v4801_39.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 2919px;
+  left: 145px;
+  overflow: hidden;
+}
+.slimg {
+  width: 395px;
+  height: 395px;
+  background: url("../images/v1_246.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  overflow: hidden;
+}
+.sl {
+  width: 53px;
+  color: rgba(36,36,36,1);
+  position: absolute;
+  top: 406px;
+
+  font-weight: Regular;
+  font-size: 20px;
+  text-align: left;
+}
+.slt {
+  width: 263px;
+  color: rgba(133,148,171,1);
+  position: absolute;
+  top: 442px;
+
+  font-weight: Regular;
+  font-size: 16px;
+  text-align: left;
+}
+.blfec {
+  width: 395px;
+  height: 462px;
+  background: url("../images/v4801_38.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 2200px;
+  left: 660px;
+  overflow: hidden;
+}
+.imgfec {
+  width: 395px;
+  height: 395px;
+  background: url("../images/v1_242.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  overflow: hidden;
+}
+.fec {
+  width: 96px;
+  color: rgba(36,36,36,1);
+  position: absolute;
+  top: 406px;
+
+  font-weight: Regular;
+  font-size: 20px;
+  text-align: left;
+}
+.web {
+  width: 187px;
+  color: rgba(133,148,171,1);
+  position: absolute;
+  top: 442px;
+
+  font-weight: Regular;
+  font-size: 16px;
+  text-align: left;
+}
+.blockgoogle {
+  width: 395px;
+  height: 609px;
+  background: url("../images/v4801_37.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 2210px;
+  left: 145px;
+  overflow: hidden;
+}
+.googlepic {
+  width: 395px;
+  height: 542px;
+  background: url("../images/v1_238.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  overflow: hidden;
+}
+.google {
+  width: 71px;
+  color: rgba(36,36,36,1);
+  position: absolute;
+  top: 553px;
+  font-weight: Regular;
+  font-size: 20px;
+  text-align: left;
+}
+.uiux {
+  width: 175px;
+  color: rgba(133,148,171,1);
+  position: absolute;
+  top: 589px;
+
+  font-weight: Regular;
+  font-size: 16px;
+  text-align: left;
+}
+.buttonclients {
+  width: 129px;
+  color: rgba(36,36,36,1);
+  background-color: antiquewhite;
+  position: absolute;
+  top: 1987px;
+  left: 535px;
+
+  font-weight: Regular;
+  font-size: 17px;
+  cursor: pointer;
+  text-align: center;
+}
+.brands {
+  width: 955px;
+  height: 139px;
+  background: url("../images/v4801_31.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 1770px;
+  left: 120px;
+  overflow: hidden;
+}
+.blockcep {
+  width: 211px;
+  height: 353px;
+  background: url("../images/v4801_36.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 1308px;
+  left: 661px;
+  overflow: hidden;
+}
+.digi {
+  width: 177px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+
+  font-weight: Regular;
+  font-size: 23px;
+  text-align: left;
+}
+.brand {
+  width: 104px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 59px;
+
+  font-weight: Regular;
+  font-size: 23px;
+  text-align: left;
+}
+.user {
+  width: 190px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 118px;
+
+  font-weight: Regular;
+  font-size: 23px;
+  text-align: left;
+}
+.deve {
+  width: 159px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 177px;
+
+  font-weight: Regular;
+  font-size: 24px;
+  text-align: left;
+}
+.wecreate {
+  width: 369px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1321px;
+  left: 145px;
+
+  font-weight: Regular;
+  font-size: 20px;
+  text-align: left;
+}
+.verx {
+  width: 100%;
+  height: 628px;
+  background: url("../images/v4801_51.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 576px;
+  left: 45px;
+  overflow: hidden;
+}
+.video {
+  width: 100%;
+  height: 628px;
+  background: url("../images/v1_8.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  overflow: hidden;
+}
+.kryg {
+  width: 83px;
+  height: 83px;
+  background: url("../images/v4803_56.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 272px;
+  left: 513px;
+  overflow: hidden;
+}
+.trig {
+  width: 27px;
+  height: 34px;
+  background: url("../images/v4803_54.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 297px;
+  left: 543px;
+  cursor: pointer;
+  overflow: hidden;
+}
+.clay {
+  width: 900px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 240px;
+  left: 145px;
+
+  font-weight: Regular;
+  font-size: 45px;
+  text-align: left;
+}
